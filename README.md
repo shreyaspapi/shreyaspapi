@@ -1,4 +1,4 @@
-<img src="https://github.com/shreyaspapi/shreyaspapi/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
+<img src="https://github.com/shreyaspapi/shreyaspapi/blob/main/Hi.gif" alt="alt text" width="100" height="100" />
 
 ### Hi there 👋 Shreyas Here..
 
