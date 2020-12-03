@@ -8,17 +8,10 @@
 
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about **Software Development and Data Science**
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love watching horror movies.
-
-
-### 🔭 Current work: 
-
-- #### [Clynica](https://clynica.tech/)
 
 ### 📫 How to reach me:
- - #### [My site](https://shreyaspapi.github.io) - Some writing.
- - #### [Twitter](https://twitter.com/spapinwar) - DMs are always open. Be kind. ❤️
- - #### [LinkedIn](https://www.linkedin.com/in/shreyaspapi) - DMs are always open. Be kind. ❤️
+ - #### [My site](https://shreyasp.me) - Some writing.
+ - #### [Twitter](https://twitter.com/spapinwar)
+ - #### [LinkedIn](https://www.linkedin.com/in/shreyaspapi)
 
 ![Shreyas's github stats](https://github-readme-stats.vercel.app/api?username=shreyaspapi&show_icons=true&hide_border=true)
