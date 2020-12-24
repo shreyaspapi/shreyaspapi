@@ -4,7 +4,7 @@
 
 <br />
 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning iOS and macOS Development
 - 💬 Ask me about **Software Development and Data Science**
 
 ### 📫 How to reach me:
@@ -12,4 +12,3 @@
  - #### [Twitter](https://twitter.com/spapinwar)
  - #### [LinkedIn](https://www.linkedin.com/in/shreyaspapi)
 
-![Shreyas's github stats](https://github-readme-stats.vercel.app/api?username=shreyaspapi&show_icons=true&hide_border=true)
