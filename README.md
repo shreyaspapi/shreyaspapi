@@ -4,9 +4,6 @@
 
 <br />
 
-- 🌱 I’m currently learning iOS and macOS Development
-- 💬 Ask me about **Software Development and Data Science**
-
 ### 📫 How to reach me:
  - #### [My site](https://shreyasp.me) - Some writing.
  - #### [Twitter](https://twitter.com/spapinwar) - DM open.
