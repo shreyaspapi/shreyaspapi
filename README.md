@@ -5,7 +5,7 @@
 <br />
 
 ### 📫 How to reach me:
- - #### [My site](https://shreyasp.me) - Some writing.
+ - #### [My site](https://personal-site-shreyaspapi.vercel.appe) - Some writing.
  - #### [Twitter](https://twitter.com/spapinwar) - DM open.
  - #### [LinkedIn](https://www.linkedin.com/in/shreyaspapi)
 
