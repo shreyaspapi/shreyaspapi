@@ -1,6 +1,5 @@
 ### Hi there 👋 Shreyas Here..
 
-Expert on ola maps.
 
 <br />
 
