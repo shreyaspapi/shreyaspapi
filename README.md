@@ -36,7 +36,7 @@ I have worked across various industries and roles, contributing to innovative pr
 - Moved to the UK and gained valuable experience in FinTech.  
 - Built **Buddle Finance**, a decentralized bridge, which didn't succeed but taught me valuable lessons in product development and resilience.  
 
-## Current Projects
+## Projects Built for fun
 
 - **[Scribbling AI](https://scribbling.ai)**  
   AI-driven clinical notes-taking app that generates clinical notes from your conversations.
