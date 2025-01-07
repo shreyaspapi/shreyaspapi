@@ -17,23 +17,24 @@ I have worked across various industries and roles, contributing to innovative pr
 - **Flatlay Consultant** – Worked on their iOS application to empower creator communities.  
 - **Claro Money (UK)** – Software Engineer at a FinTech company.  
 - **Buddle Finance** – Built a decentralized bridge for cross-chain applications; raised $50k from Gitcoin.  
-- **Ricochet Exchange** - Swap tokens by the second protocol made using superfluid at its core.
-- **Coria** - UPI credit line for your crypto, an easy way to pay using UPI from your USDC.
-- **Scribbling AI** - Medical scribe solution for clinicians.
+- **Ricochet Exchange** – Swap tokens by the second protocol made using superfluid at its core.  
+- **Coria** – UPI credit line for your crypto, an easy way to pay using UPI from your USDC.  
+- **Scribbling AI** – Medical scribe solution for clinicians.  
+- **Ube GrantsDAO** – Created a DAO grants proposal dashboard for the UBE protocol. [Watch Demo](https://www.youtube.com/watch?v=Ov3N1ujIsOE).  
 
 ## Achievements
 
 - **Microsoft Imagine Cup (Asia 2020 Finalist)** – Developed a healthcare-focused innovation.  
 - **$50k Gitcoin Grant Recipient** – For Buddle Finance.  
+- **$20k Perpetual Protocol Grant Recipient** – Developed an iOS app for their exchange. [Watch Demo](https://www.youtube.com/watch?v=WWw43cLWMnw).  
 - **Google Summer of Code Alumni** – Successfully contributed to Fedora.  
-- **10+ Hackathon Winner** – Primarily with ETHGlobal events.
+- **10+ Hackathon Winner** – Primarily with ETHGlobal events.  
 
 ## My Journey
 
 - Founded **Clynica** during college to digitize doctor consultations but faced challenges that led to its closure.  
 - Moved to the UK and gained valuable experience in FinTech.  
-- Built **Buddle Finance**, a decentralized bridge, which didn't succeed but taught me valuable lessons in product development and resilience.
-- Currently tackaling
+- Built **Buddle Finance**, a decentralized bridge, which didn't succeed but taught me valuable lessons in product development and resilience.  
 
 ## Current Projects
 
@@ -45,17 +46,21 @@ I have worked across various industries and roles, contributing to innovative pr
 
 - **[Buddle Finance](https://github.com/buddle-finance)**  
   An interoperability protocol onboarding the next hundred million users onto DeFi.
-- **Coria** - UPI credit line for your crypto, an easy way to pay using UPI from your USDC.
 
-### Technologies Used  
+- **[Coria](https://coriaapp.github.io/)**  
+  UPI credit line for your crypto, an easy way to pay using UPI from your USDC.  
+  [Watch Demo](https://www.loom.com/share/1b4c919ef9e246f5953695f797bbbe42?sid=08ac6fc0-1b4c-46af-86ca-e9234a61a2c3).
+
+## Technologies Used
+
 - [LiveKit](https://livekit.io/)  
-- Major LLMs using langchain
-- OpenAI Realtime GPT-4, Gemini 2.0, Llama vision models 
+- Major LLMs using LangChain  
+- OpenAI Realtime GPT-4, Gemini 2.0, Llama vision models  
 - React  
-- WebRTC
+- WebRTC  
 - SwiftUI for iPad and iOS apps  
 - Solidity  
-- [Superfluid](https://superfluid.finance)
+- [Superfluid](https://superfluid.finance)  
 
 ## 🤝 Let's Connect!
 
