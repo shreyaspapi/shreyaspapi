@@ -13,7 +13,7 @@ I am **Shreyas Papinwar** — a computer science graduate with a diverse backgro
 
 I have worked across various industries and roles, contributing to innovative products and platforms:
 
-- **Google Summer of Code Intern** – Contributed to Fedora.  
+- **Google Summer of Code** – Contributed to Fedora (Redhat org).  
 - **Flatlay Consultant** – Worked on their iOS application to empower creator communities.  
 - **Claro Money (UK)** – Software Engineer at a FinTech company.  
 - **Buddle Finance** – Built a decentralized bridge for cross-chain applications; raised $50k from Gitcoin.  
