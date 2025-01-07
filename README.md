@@ -15,7 +15,7 @@ I have worked across various industries and roles, contributing to innovative pr
 
 - **Google Summer of Code Intern** – Contributed to Fedora.
 - **Flatlay Consultant** – Worked on their iOS application to empower creator communities.
-- **Claro Money (UK)** – Senior Backend Engineer at a fintech company.
+- **Claro Money (UK)** – Software Engineer at a fintech company.
 - **Buddle Finance** – Built a decentralized bridge for cross-chain applications; raised $50k from Gitcoin.
 
 ## Achievements
