@@ -24,7 +24,7 @@ I have worked across various industries and roles, contributing to innovative pr
 
 ## Achievements
 
-- **Microsoft Imagine Cup (Asia 2020 Finalist)** – Developed a healthcare-focused innovation.  
+- **[Microsoft Imagine Cup (Asia 2020 Finalist)](https://techcommunity.microsoft.com/blog/studentdeveloperblog/meet-the-2020-imagine-cup-asia-regional-finalists/1086465)** – FastTag tollways enable commuters to simply walk in, have their face scanned, and have the toll deducted automatically from their wallet..  
 - **$50k Gitcoin Grant Recipient** – For Buddle Finance.  
 - **$20k Perpetual Protocol Grant Recipient** – Developed an iOS app for their exchange. [Watch Demo](https://www.youtube.com/watch?v=WWw43cLWMnw).  
 - **Google Summer of Code Alumni** – Successfully contributed to Fedora.  
