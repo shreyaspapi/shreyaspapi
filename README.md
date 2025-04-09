@@ -13,7 +13,7 @@ I am **Shreyas Papinwar** — a computer science graduate with a diverse backgro
 
 I have worked across various industries and roles, contributing to innovative products and platforms:
 
-- ** [Google Summer of Code](https://github.com/packit/packit-service/pulls?q=is%3Apr+shreyaspapi+is%3Aclosed) ** – Contributed to Fedora (Redhat org) - Packit org.  
+- **[Google Summer of Code](https://github.com/packit/packit-service/pulls?q=is%3Apr+shreyaspapi+is%3Aclosed)** – Contributed to Fedora (Redhat org) - Packit org.  
 - **[Flatlay Consultant](https://flatlay.io/)** – Worked on their iOS application to empower creator communities.  
 - **Claro Money (UK)** – Software Engineer at a FinTech company.  
 - **[Buddle Finance](https://github.com/buddle-finance)** – Built a decentralized bridge for cross-chain applications; raised $50k from Gitcoin.  
