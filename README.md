@@ -13,13 +13,13 @@ I am **Shreyas Papinwar** — a computer science graduate with a diverse backgro
 
 I have worked across various industries and roles, contributing to innovative products and platforms:
 
-- **Google Summer of Code** – Contributed to Fedora (Redhat org).  
-- **Flatlay Consultant** – Worked on their iOS application to empower creator communities.  
+- ** [Google Summer of Code](https://github.com/packit/packit-service/pulls?q=is%3Apr+shreyaspapi+is%3Aclosed) ** – Contributed to Fedora (Redhat org) - Packit org.  
+- **[Flatlay Consultant](https://flatlay.io/)** – Worked on their iOS application to empower creator communities.  
 - **Claro Money (UK)** – Software Engineer at a FinTech company.  
-- **Buddle Finance** – Built a decentralized bridge for cross-chain applications; raised $50k from Gitcoin.  
-- **Ricochet Exchange** – Swap tokens by the second protocol made using superfluid at its core.  
-- **Coria** – UPI credit line for your crypto, an easy way to pay using UPI from your USDC.  
-- **Scribbling AI** – Medical scribe solution for clinicians.  
+- **[Buddle Finance](https://github.com/buddle-finance)** – Built a decentralized bridge for cross-chain applications; raised $50k from Gitcoin.  
+- **[Ricochet Exchange](https://github.com/Ricochet-Exchange)** – Swap tokens by the second protocol made using superfluid at its core.
+- **Coria** – UPI credit line for your crypto, an easy way to pay using UPI from your USDC - stopped due to regulatory issues.  
+- **[Scribbling AI](https://scribbling.ai)** – Medical scribe solution for clinicians.  
 - **Ube GrantsDAO** – Created a DAO grants proposal dashboard for the UBE protocol. [Watch Demo](https://www.youtube.com/watch?v=Ov3N1ujIsOE).  
 
 ## Achievements
@@ -38,6 +38,9 @@ I have worked across various industries and roles, contributing to innovative pr
 
 ## Projects Built for fun
 
+- **[Fluid Funds](https://fluidfunds.xyz/)**
+  A web3 hedge fund platform.
+  
 - **[Scribbling AI](https://scribbling.ai)**  
   AI-driven clinical notes-taking app that generates clinical notes from your conversations.
 
