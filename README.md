@@ -35,7 +35,7 @@ I have worked across various industries and roles, contributing to innovative pr
 - Founded **Clynica** during college – a digital prescription and consultation platform using iPads – which, despite initial excitement, had to be shut down due to limited adoption and infrastructure gaps.
 - Moved to the **UK**, where I worked at **Claro Money**, gaining deep insights into building consumer FinTech products and regulatory-compliant systems.
 - Built **Buddle Finance**, a decentralized cross-chain bridge that raised **$50k from Gitcoin**. Though the project was sunset after the FTX collapse, it sharpened my understanding of market timing and user trust.
-- Joined **Ricochet Exchange** as the lead smart contract engineer, where I architected token streaming protocols using **Superfluid**, with over $1M TVL at peak.
+- Joined **Ricochet Exchange** as the lead smart contract engineer, where I architected token streaming protocols using **Superfluid**, with over $1M streaming at peak.
 - Participated in **Google Summer of Code**, contributing to open-source at scale with Fedora/RedHat, and solidified my foundation in community-driven software.
 - Launched **Coria**, an experimental FinTech app enabling **UPI payments through USDC** – a bold attempt that highlighted the challenges of navigating Indian crypto regulations.
 - Built and scaled **Scribbling AI**, a medical scribe tool now in use by doctors across multiple specialties, helping automate clinical documentation using GPT-4 and real-time transcription APIs.
