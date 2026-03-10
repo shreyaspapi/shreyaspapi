@@ -8,7 +8,7 @@ I build products I want to use. Currently building [Onera](https://onera.chat).
 
 ## Now
 
-**Co-founder, [Onera](https://onera.chat)** — End-to-end encrypted AI chat with private inference. All messages, prompts, and API keys are encrypted client-side before reaching the server. For private inference, prompts route directly from the browser to TEE (Trusted Execution Environment) enclaves over Noise-encrypted WebSockets — the server never sees plaintext data. Open source under AGPL-3.0.
+**[Onera](https://onera.chat)** — End-to-end encrypted AI chat with private inference. All messages, prompts, and API keys are encrypted client-side before reaching the server. For private inference, prompts route directly from the browser to TEE (Trusted Execution Environment) enclaves over Noise-encrypted WebSockets — the server never sees plaintext data. Open source under AGPL-3.0.
 
 [[Website](https://onera.chat)] [[GitHub](https://github.com/onera-app/onera)]
 
